@@ -1,0 +1,5 @@
+torch==1.13.1
+torchtext==0.14.1
+tensorboard==2.11.2
+numpy==1.24.2
+gensim==4.3.2
